@@ -2,7 +2,7 @@
 
 # 🩺 AI Health Report Translator
 
-### Medical reports, explained in plain language.
+### Medical reports, explained in simple language.
 
 Turn complex laboratory reports into clear explanations, reviewable results, doctor-discussion questions, and health trends.
 
@@ -18,7 +18,7 @@ Turn complex laboratory reports into clear explanations, reviewable results, doc
 
 > ⚕️ **Important:** This is an educational tool, not a diagnostic system. It does not diagnose conditions or recommend treatment. Always discuss medical results with a qualified healthcare professional.
 
-## ✨ What it does
+## ✨ What it does?
 
 Upload a laboratory report, review the extracted test details, understand terminology in plain language, and revisit results over time.
 
@@ -29,7 +29,7 @@ Upload a laboratory report, review the extracted test details, understand termin
 - 📈 **Track trends** — view comparable test results across saved reports.
 - 🔐 **Keep reports private** — authenticated accounts and user-scoped report access.
 
-## 🧰 Technology
+## 🧰 Technology:-
 
 | Layer | Planned tools |
 |---|---|
@@ -45,7 +45,7 @@ Upload a laboratory report, review the extracted test details, understand termin
 
 *The stack reflects the project plan. Update it to match the libraries and services actually implemented.*
 
-## 🏗️ System architecture
+## 🏗️ System architecture:-
 
 ```mermaid
 flowchart TD
@@ -65,7 +65,7 @@ flowchart TD
     DB --> FE
 ```
 
-### 🔄 Report workflow
+### 🔄 Report workflow:-
 
 **Sign in → Upload → Extract → Review → Classify → Explain → Save → Track trends**
 
@@ -77,7 +77,7 @@ flowchart TD
 6. Generate and validate educational AI explanations.
 7. Save the report and show its history and comparable trends.
 
-## 🗃️ Proposed data model
+## 🗃️ Proposed data model:-
 
 The following is a **logical design**, not a claim that these schemas are already implemented.
 
