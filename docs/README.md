@@ -4,7 +4,7 @@
 
 ### Medical reports, explained in simple language.
 
-Turn complex laboratory reports into clear explanations, reviewable results, doctor-discussion questions, and health trends.
+hello team.
 
 ![Academic Project](https://img.shields.io/badge/Status-Academic%20Project-2563eb?style=for-the-badge)
 ![Responsible AI](https://img.shields.io/badge/AI-Responsible%20Use-7c3aed?style=for-the-badge)
